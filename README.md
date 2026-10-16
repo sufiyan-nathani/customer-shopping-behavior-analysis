@@ -90,11 +90,7 @@ The following data preparation steps were performed using Python and Pandas:
 
 ## Dashboard Preview
 
-Add your Power BI dashboard screenshot here after uploading it to this repository.
-
-Example:
-
-[Customer Shopping Behavior Dashboard](dashboard.jpg)
+![Customer Shopping Behavior Dashboard](dashboard.jpg)
 
 ## Files in This Project
 
